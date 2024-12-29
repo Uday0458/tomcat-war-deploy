@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.akalashnykov</groupId>
-    <artifactId>tomcat-root-war</artifactId>
+    <artifactId>sample1.war</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
 
