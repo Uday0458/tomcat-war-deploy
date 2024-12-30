@@ -30,7 +30,7 @@
     </dependencies>
 
     <build>
-        <finalName>Root</finalName>
+        <finalName>Roots</finalName>
         <plugins>
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
